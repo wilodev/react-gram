@@ -1,3 +1,2 @@
-# curso-platzi-react-avanzado ⚛️
+# App React V 16.8 ⚛️
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
